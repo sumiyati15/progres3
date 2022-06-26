@@ -1,0 +1,42 @@
+1. 20 + 20 * 3 + 2 * 3 ?
+a) 126
+b) 366
+c) 86
+d) 256
+c
+Petunjuk: Perkalian selalu di dahulukan.
+2. Berapa kali angka 0 muncul dari angka 1 sampai 100 ?
+a) 11
+b) 12
+c) 9
+d) 10
+a
+Petunjuk: Hitungan dimulai dari angka 1.
+3. 2 2 6 ? 3 2 5 
+a) 7
+b) 4
+c) 1
+d) 9
+c
+Petunjuk: jumlah tiap angka di satu baris selalu bernilai
+4. [3 2 5], [10 5 5], [8 20 ?] 
+a) 28
+b) 2
+c) 8
+d) 4
+b
+Petunjuk: jumlahkan angka pada masing - masing kotak
+5. [6889 = 6], [7711 = 0], [6666 = 4], [9229 = 2], [9571 = ?]
+a) 0
+b) 9
+c) 5
+d) 1
+d
+Petunjuk: jumlah angka yg memiliki lingkaran
+4. 16 06 68 88 ? 98
+a) 90
+b) 87
+c) 08
+d) 78
+b
+Petunjuk: balik layar anda!!!
